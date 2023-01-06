@@ -15,6 +15,5 @@ Untuk nama video ada dibawah ini:
 - PoundFit.mp4
 - TRX.mp4
 - Yoga.mp4
-- Zumba.mp4# UAS-WebDesign-Semester3
-# UAS-WebDesign-Semester3
+- Zumba.mp4
 # UAS-WebDesign
