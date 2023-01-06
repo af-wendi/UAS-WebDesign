@@ -1,4 +1,5 @@
 By: Wendi Agustian Firmansyah
+UAS Web Design Semester 3 2022/2023
 - Menggunakan codeigniter 3.1
 - Untuk database ada pada folder "debe" dengan password yang ada pada application config disesuaikan dengan database yang ada
 - Menggunakan PHP versi 8.1
